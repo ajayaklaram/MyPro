@@ -1,5 +1,3 @@
-Hello worldhgfhjfghy
+
 print("hello")
-hihsfih
-khkgikgkg
-jlhlh
+print("AJAY")
